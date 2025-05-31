@@ -44,7 +44,7 @@ I'm experienced with Unity, C#, webdev, and other stuff that I find intersting.<
 ## GitHub Stats
 | Stats | Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=LumiUG&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LumiUG&theme=gruvbox&show_icons=true&hide_border=true&locale=en&layout=compact"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=yingsonic&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yingsonic&theme=gruvbox&show_icons=true&hide_border=true&locale=en&layout=compact"> |
 
 <p>
     Thanks to <a href=https://github.com/LumiUG>@LumiUG</a> for the README!
