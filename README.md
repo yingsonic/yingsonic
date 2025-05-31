@@ -1,5 +1,4 @@
 Hi! I'm ying<br>
-I'm experienced with Unity, C#, webdev, and other stuff that I find intersting.<br>
 <!-- <img src="https://komarev.com/ghpvc/?username=LumiUG"> -->
 
 ## Programming Languages
