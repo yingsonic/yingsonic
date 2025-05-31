@@ -39,7 +39,7 @@ I'm experienced with Unity, C#, webdev, and other stuff that I find intersting.<
 </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
 	<img align=left alt="Bash" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/bash.png"/>
-</a><br><br> -->
+</a>--><br><br> 
 
 ## GitHub Stats
 | Stats | Languages |
