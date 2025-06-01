@@ -24,6 +24,9 @@ Hi! I'm ying<br>
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp">
 	<img align=left alt="C# (a bit)" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/csharp.png"/>
 </a>
+<a href="https://www.lua.org/">
+	<img align=left alt="Lua (a bit)" width="44px" src="https://static.wikia.nocookie.net/roblox/images/8/85/Lua_language.png/revision/latest?cb=20211107010141"/>
+</a>
 <!-- <a href="https://wikipedia.org/wiki/C%2B%2B">
 	<img align=left alt="C++" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/cpp.svg"/>
 </a> -->
@@ -32,7 +35,7 @@ Hi! I'm ying<br>
 	<img align=left alt="Java" width="44px" src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png"/>
 </a>
 <a href="https://kotlinlang.org/">
-	<img align=left alt="Kotlin" width="44px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png"/>
+	<img align=left alt="Kotlin" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>
 </a>
 <a href="https://gdscript.com/">
 	<img align=left alt="GDScript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
