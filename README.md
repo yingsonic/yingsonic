@@ -18,12 +18,25 @@ Hi! I'm ying<br>
 <a href="https://www.python.org">
 	<img align=left alt="Python" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/python.svg"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+	<img align=left alt="C" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"/>
+</a>
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp">
 	<img align=left alt="C# (a bit)" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/csharp.png"/>
 </a>
 <!-- <a href="https://wikipedia.org/wiki/C%2B%2B">
 	<img align=left alt="C++" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/cpp.svg"/>
 </a> -->
+
+<a href="https://www.java.com/en/">
+	<img align=left alt="Java" width="44px" src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png"/>
+</a>
+<a href="https://kotlinlang.org/">
+	<img align=left alt="Kotlin" width="44px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png"/>
+</a>
+<a href="https://gdscript.com/">
+	<img align=left alt="GDScript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
+</a>
 <a href="https://minecraft.fandom.com/wiki/Function_(Java_Edition)">
 	<img align=left alt="MCFunction" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/mcfunction.png"/>
 </a>
